@@ -14,7 +14,7 @@ You can review its source directly on github: <b>https://github.com/Turaa/Mini</
 <h4>Installation</h4>
 
 Open the <b>.htaccess</b> file with a text editor (Example JEdit). <b>.htaccess</b> is located in your root-folder,
-<br>change the address <i>(RewriteBase /~tutu13/mvc/Mini/)</i> to your installation.
+<br>change the address <i>(RewriteBase /~tutu13/Test/)</i> to your installation.
 <p>
 Upload the MVC-Mini to your server by using a ftp-program. (Example FileZilla).
 <p>
