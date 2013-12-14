@@ -1,30 +1,30 @@
 <h2>Welcome to MVC-Mini index controller</h2>
 
 
-<h3>How to install MVC-Mini</h3>
+<h3>How to install Mini</h3>
 
 <h4>Download</h4>
 
-You can download MVC-Mini from github. Use <b>gitbash</b> to download the framework;
+You can download Mini from github. Use <b>gitbash</b> to download the framework;
 
-<b>git clone git://github.com/Turaa/MVC-Mini.git</b>
+<b>git clone git://github.com/Turaa/Mini.git</b>
 
-You can review its source directly on github: <b>https://github.com/Turaa/MVC-Mini</b>
+You can review its source directly on github: <b>https://github.com/Turaa/Mini</b>
 
 <h4>Installation</h4>
 
 Open the <b>.htaccess</b> file with a text editor (Example JEdit). <b>.htaccess</b> is located in your root-folder,
-<br>change the address in line 4 <i>(RewriteBase /~tutu13/mvc/MVC-Mini/)</i> to your installation.
+<br>change the address in line 4 <i>(RewriteBase /~tutu13/mvc/Mini/)</i> to your installation.
 <p>
 Upload the MVC-Mini to your server by using a ftp-program. (Example FileZilla).
 <p>
-Make the data-directory <b>writeable</b>. This is the place where MVC-Mini needs to be able to write and create files.  
+Make the data-directory <b>writeable</b>. This is the place where Mini needs to be able to write and create files.  
 Easiest way to do this is to do it in your ftp-program. (Example FileZilla).
 Right-click on the folder "data" in <b>site/data</b> 
 <br>and change <b>file permissions</b> to <b>777</b>. <b>Make sure to change the .sqlite file in "data" to 777 too.</b>
 <p>
 
-Finally, MVC-Mini has some modules that need to be initialised. Visit your framework in your 
+Finally, Mini has some modules that need to be initialised. Visit your framework in your 
 <br>webbrowser and point your browser to the following link; <b>module/install.</b>
 
 <h3>How to modify</h3>
